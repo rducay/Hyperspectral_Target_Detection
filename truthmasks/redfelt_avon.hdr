@@ -1,0 +1,20 @@
+ENVI
+description = {
+  Classification Image created from input ROIs [Sun Jul 02 22:20:10 2023]}
+samples = 320
+lines   = 400
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 2
+class lookup = {
+   0,   0,   0, 255, 127,  80}
+class names = {
+ Unclassified, redfelt [Coral] 68 points}
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Class Image from ROIs}

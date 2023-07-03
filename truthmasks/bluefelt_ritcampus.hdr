@@ -1,0 +1,22 @@
+ENVI
+description = {
+  Classification Image created from input ROIs [Sun Jul 02 23:46:41 2023]}
+samples = 320
+lines   = 320
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 2
+class lookup = {
+   0,   0,   0,   0, 255, 255}
+class names = {
+ Unclassified, bluefelt [Cyan] 57 points}
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Class Image from ROIs}
+spectir smoothing = Savitsky-Golay smoothing and CO2 mitigation applied
+savgolay version number = 2.1b, 13 Aug 2010
